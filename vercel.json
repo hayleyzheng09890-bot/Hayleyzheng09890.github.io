@@ -1,0 +1,20 @@
+{
+  "routes": [
+    {
+      "src": "/",
+      "dest": "/index.html"
+    },
+    {
+      "src": "/internship",
+      "dest": "/internship.html"
+    },
+    {
+      "src": "/practice",
+      "dest": "/practice.html"
+    },
+    {
+      "src": "/contact",
+      "dest": "/contact.html"
+    }
+  ]
+}
